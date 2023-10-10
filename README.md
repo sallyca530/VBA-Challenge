@@ -5,3 +5,4 @@ https://stackoverflow.com/questions/17980854/vba-runtime-error-1004-application-
 worked with Nathan Hans
 debugging with Brandon Wong (Learning Assistant)
 https://www.thespreadsheetguru.com/last-row-column-vba/
+debugging help For Loop and ticker Sbu Gumede (Learning Assistant)
