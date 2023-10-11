@@ -6,3 +6,4 @@ worked with Nathan Hans
 debugging with Brandon Wong (Learning Assistant)
 https://www.thespreadsheetguru.com/last-row-column-vba/
 debugging help For Loop and ticker Sbu Gumede (Learning Assistant)
+Help from David Chao Mod 2 finished for Alph testing
